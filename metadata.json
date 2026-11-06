@@ -1,0 +1,6 @@
+{
+  "name": "YAM Script Provider – Premium Digital Products Marketplace",
+  "description": "Commercial-grade digital marketplace for premium website scripts, WordPress themes, plugins, mobile apps, and SaaS source codes with automated instant delivery and multi-gateway checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
